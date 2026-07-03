@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/khushboo899/leetcode-daily/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/khushboo899/leetcode-daily/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/khushboo899/leetcode-daily/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/khushboo899/leetcode-daily/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/khushboo899/leetcode-daily/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/khushboo899/leetcode-daily/tree/master/0234-palindrome-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/khushboo899/leetcode-daily/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
