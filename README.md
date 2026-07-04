@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushboo899/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/khushboo899/leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/khushboo899/leetcode-daily/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/khushboo899/leetcode-daily/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/khushboo899/leetcode-daily/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushboo899/leetcode-daily/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/khushboo899/leetcode-daily/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
