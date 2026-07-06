@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/khushboo899/leetcode-daily/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/khushboo899/leetcode-daily/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/khushboo899/leetcode-daily/tree/master/0238-product-of-array-except-self) |
+| [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/khushboo899/leetcode-daily/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/khushboo899/leetcode-daily/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -127,11 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/khushboo899/leetcode-daily/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/khushboo899/leetcode-daily/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/khushboo899/leetcode-daily/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/khushboo899/leetcode-daily/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -140,4 +144,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/khushboo899/leetcode-daily/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
