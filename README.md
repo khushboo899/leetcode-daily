@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/khushboo899/leetcode-daily/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/khushboo899/leetcode-daily/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/khushboo899/leetcode-daily/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/khushboo899/leetcode-daily/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
