@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/khushboo899/leetcode-daily/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/khushboo899/leetcode-daily/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/khushboo899/leetcode-daily/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/khushboo899/leetcode-daily/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/khushboo899/leetcode-daily/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/khushboo899/leetcode-daily/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/khushboo899/leetcode-daily/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/khushboo899/leetcode-daily/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
 ## Union-Find
