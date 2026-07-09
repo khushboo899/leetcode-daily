@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khushboo899/leetcode-daily/tree/master/0169-majority-element) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/khushboo899/leetcode-daily/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushboo899/leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/khushboo899/leetcode-daily/tree/master/0125-valid-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/khushboo899/leetcode-daily/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -161,5 +163,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/khushboo899/leetcode-daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/khushboo899/leetcode-daily/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
