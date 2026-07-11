@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/khushboo899/leetcode-daily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/khushboo899/leetcode-daily/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/khushboo899/leetcode-daily/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/khushboo899/leetcode-daily/tree/master/1137-n-th-tribonacci-number) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/khushboo899/leetcode-daily/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Dynamic Programming
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/khushboo899/leetcode-daily/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/khushboo899/leetcode-daily/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/khushboo899/leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/khushboo899/leetcode-daily/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -227,4 +229,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/khushboo899/leetcode-daily/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/khushboo899/leetcode-daily/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/khushboo899/leetcode-daily/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
