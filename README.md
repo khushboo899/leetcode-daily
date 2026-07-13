@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/khushboo899/leetcode-daily/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/khushboo899/leetcode-daily/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/khushboo899/leetcode-daily/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/khushboo899/leetcode-daily/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/khushboo899/leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
 | [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/khushboo899/leetcode-daily/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/khushboo899/leetcode-daily/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/khushboo899/leetcode-daily/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/khushboo899/leetcode-daily/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/khushboo899/leetcode-daily/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/khushboo899/leetcode-daily/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/khushboo899/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/khushboo899/leetcode-daily/tree/master/0622-design-circular-queue) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -251,4 +254,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/khushboo899/leetcode-daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/khushboo899/leetcode-daily/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/khushboo899/leetcode-daily/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
