@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/khushboo899/leetcode-daily/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/khushboo899/leetcode-daily/tree/master/0187-repeated-dna-sequences) |
+| [0387-first-unique-character-in-a-string](https://github.com/khushboo899/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khushboo899/leetcode-daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/khushboo899/leetcode-daily/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/khushboo899/leetcode-daily/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khushboo899/leetcode-daily/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/khushboo899/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/khushboo899/leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/khushboo899/leetcode-daily/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/khushboo899/leetcode-daily/tree/master/0187-repeated-dna-sequences) |
+| [0387-first-unique-character-in-a-string](https://github.com/khushboo899/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/khushboo899/leetcode-daily/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khushboo899/leetcode-daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/khushboo899/leetcode-daily/tree/master/0567-permutation-in-string) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/khushboo899/leetcode-daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/khushboo899/leetcode-daily/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/khushboo899/leetcode-daily/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/khushboo899/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
