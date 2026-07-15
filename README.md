@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/khushboo899/leetcode-daily/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/khushboo899/leetcode-daily/tree/master/1137-n-th-tribonacci-number) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/khushboo899/leetcode-daily/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/khushboo899/leetcode-daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -273,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/khushboo899/leetcode-daily/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0210-course-schedule-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/khushboo899/leetcode-daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
