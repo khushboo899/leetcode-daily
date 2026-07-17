@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/khushboo899/leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/khushboo899/leetcode-daily/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
+| [1765-map-of-highest-peak](https://github.com/khushboo899/leetcode-daily/tree/master/1765-map-of-highest-peak) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/khushboo899/leetcode-daily/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khushboo899/leetcode-daily/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/khushboo899/leetcode-daily/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/khushboo899/leetcode-daily/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
+| [1765-map-of-highest-peak](https://github.com/khushboo899/leetcode-daily/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/khushboo899/leetcode-daily/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/khushboo899/leetcode-daily/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/khushboo899/leetcode-daily/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
+| [1765-map-of-highest-peak](https://github.com/khushboo899/leetcode-daily/tree/master/1765-map-of-highest-peak) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khushboo899/leetcode-daily/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sliding Window
 |  |
