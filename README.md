@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/khushboo899/leetcode-daily/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/khushboo899/leetcode-daily/tree/master/0239-sliding-window-maximum) |
+| [0542-01-matrix](https://github.com/khushboo899/leetcode-daily/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/khushboo899/leetcode-daily/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/khushboo899/leetcode-daily/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/khushboo899/leetcode-daily/tree/master/0733-flood-fill) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/khushboo899/leetcode-daily/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/khushboo899/leetcode-daily/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/khushboo899/leetcode-daily/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/khushboo899/leetcode-daily/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/khushboo899/leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/khushboo899/leetcode-daily/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/khushboo899/leetcode-daily/tree/master/1668-maximum-repeating-substring) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/khushboo899/leetcode-daily/tree/master/0404-sum-of-left-leaves) |
+| [0542-01-matrix](https://github.com/khushboo899/leetcode-daily/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/khushboo899/leetcode-daily/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/khushboo899/leetcode-daily/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/khushboo899/leetcode-daily/tree/master/0994-rotting-oranges) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/khushboo899/leetcode-daily/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/khushboo899/leetcode-daily/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/khushboo899/leetcode-daily/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/khushboo899/leetcode-daily/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
