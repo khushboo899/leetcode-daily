@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/khushboo899/leetcode-daily/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushboo899/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/khushboo899/leetcode-daily/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/khushboo899/leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/khushboo899/leetcode-daily/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/khushboo899/leetcode-daily/tree/master/0118-pascals-triangle) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/khushboo899/leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/khushboo899/leetcode-daily/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khushboo899/leetcode-daily/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/khushboo899/leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/khushboo899/leetcode-daily/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/khushboo899/leetcode-daily/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/khushboo899/leetcode-daily/tree/master/0118-pascals-triangle) |
