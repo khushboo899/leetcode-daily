@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/khushboo899/leetcode-daily/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/khushboo899/leetcode-daily/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/khushboo899/leetcode-daily/tree/master/0187-repeated-dna-sequences) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushboo899/leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/khushboo899/leetcode-daily/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/khushboo899/leetcode-daily/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/khushboo899/leetcode-daily/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/khushboo899/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0112-path-sum) |
+| [0126-word-ladder-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/khushboo899/leetcode-daily/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/khushboo899/leetcode-daily/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/khushboo899/leetcode-daily/tree/master/0207-course-schedule) |
@@ -306,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/khushboo899/leetcode-daily/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
