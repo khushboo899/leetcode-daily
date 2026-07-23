@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/khushboo899/leetcode-daily/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/khushboo899/leetcode-daily/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/khushboo899/leetcode-daily/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/khushboo899/leetcode-daily/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/khushboo899/leetcode-daily/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/khushboo899/leetcode-daily/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/khushboo899/leetcode-daily/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/khushboo899/leetcode-daily/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/khushboo899/leetcode-daily/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/khushboo899/leetcode-daily/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/khushboo899/leetcode-daily/tree/master/1162-as-far-from-land-as-possible) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/khushboo899/leetcode-daily/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/khushboo899/leetcode-daily/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/khushboo899/leetcode-daily/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/khushboo899/leetcode-daily/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khushboo899/leetcode-daily/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/khushboo899/leetcode-daily/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/khushboo899/leetcode-daily/tree/master/0802-find-eventual-safe-states) |
 ## Number Theory
 |  |
 | ------- |
