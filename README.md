@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/khushboo899/leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/khushboo899/leetcode-daily/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/khushboo899/leetcode-daily/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0119-pascals-triangle-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/khushboo899/leetcode-daily/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/khushboo899/leetcode-daily/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/khushboo899/leetcode-daily/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/khushboo899/leetcode-daily/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0119-pascals-triangle-ii) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/khushboo899/leetcode-daily/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/khushboo899/leetcode-daily/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/khushboo899/leetcode-daily/tree/master/0733-flood-fill) |
