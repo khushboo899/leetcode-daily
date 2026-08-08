@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/khushboo899/leetcode-daily/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/khushboo899/leetcode-daily/tree/master/1162-as-far-from-land-as-possible) |
+| [1584-min-cost-to-connect-all-points](https://github.com/khushboo899/leetcode-daily/tree/master/1584-min-cost-to-connect-all-points) |
 | [1765-map-of-highest-peak](https://github.com/khushboo899/leetcode-daily/tree/master/1765-map-of-highest-peak) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/khushboo899/leetcode-daily/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khushboo899/leetcode-daily/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/khushboo899/leetcode-daily/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/khushboo899/leetcode-daily/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
+| [1584-min-cost-to-connect-all-points](https://github.com/khushboo899/leetcode-daily/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/khushboo899/leetcode-daily/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/khushboo899/leetcode-daily/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/khushboo899/leetcode-daily/tree/master/0802-find-eventual-safe-states) |
 | [1192-critical-connections-in-a-network](https://github.com/khushboo899/leetcode-daily/tree/master/1192-critical-connections-in-a-network) |
+| [1584-min-cost-to-connect-all-points](https://github.com/khushboo899/leetcode-daily/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/khushboo899/leetcode-daily/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khushboo899/leetcode-daily/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
@@ -343,4 +346,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/khushboo899/leetcode-daily/tree/master/1192-critical-connections-in-a-network) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/khushboo899/leetcode-daily/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/khushboo899/leetcode-daily/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/khushboo899/leetcode-daily/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/khushboo899/leetcode-daily/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
