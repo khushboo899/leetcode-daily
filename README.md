@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/khushboo899/leetcode-daily/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/khushboo899/leetcode-daily/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/khushboo899/leetcode-daily/tree/master/1137-n-th-tribonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/khushboo899/leetcode-daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/khushboo899/leetcode-daily/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/khushboo899/leetcode-daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/khushboo899/leetcode-daily/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/khushboo899/leetcode-daily/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/khushboo899/leetcode-daily/tree/master/0622-design-circular-queue) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/khushboo899/leetcode-daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
