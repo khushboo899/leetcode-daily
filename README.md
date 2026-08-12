@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/khushboo899/leetcode-daily/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/khushboo899/leetcode-daily/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/khushboo899/leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/khushboo899/leetcode-daily/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/khushboo899/leetcode-daily/tree/master/1162-as-far-from-land-as-possible) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/khushboo899/leetcode-daily/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/khushboo899/leetcode-daily/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/khushboo899/leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/khushboo899/leetcode-daily/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/khushboo899/leetcode-daily/tree/master/1162-as-far-from-land-as-possible) |
 | [1668-maximum-repeating-substring](https://github.com/khushboo899/leetcode-daily/tree/master/1668-maximum-repeating-substring) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/khushboo899/leetcode-daily/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/khushboo899/leetcode-daily/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/khushboo899/leetcode-daily/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/khushboo899/leetcode-daily/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/khushboo899/leetcode-daily/tree/master/1162-as-far-from-land-as-possible) |
