@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/khushboo899/leetcode-daily/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/khushboo899/leetcode-daily/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/khushboo899/leetcode-daily/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/khushboo899/leetcode-daily/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/khushboo899/leetcode-daily/tree/master/0198-house-robber) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0001-two-sum) |
 | [0126-word-ladder-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/khushboo899/leetcode-daily/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/khushboo899/leetcode-daily/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/khushboo899/leetcode-daily/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/khushboo899/leetcode-daily/tree/master/0187-repeated-dna-sequences) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/khushboo899/leetcode-daily/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/khushboo899/leetcode-daily/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/khushboo899/leetcode-daily/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/khushboo899/leetcode-daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/khushboo899/leetcode-daily/tree/master/0338-counting-bits) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/khushboo899/leetcode-daily/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/khushboo899/leetcode-daily/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/khushboo899/leetcode-daily/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/khushboo899/leetcode-daily/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/khushboo899/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/khushboo899/leetcode-daily/tree/master/0392-is-subsequence) |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/khushboo899/leetcode-daily/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/khushboo899/leetcode-daily/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/khushboo899/leetcode-daily/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/khushboo899/leetcode-daily/tree/master/1137-n-th-tribonacci-number) |
 ## String Matching
@@ -384,4 +389,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0142-linked-list-cycle-ii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/khushboo899/leetcode-daily/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/khushboo899/leetcode-daily/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
