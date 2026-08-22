@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/khushboo899/leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/khushboo899/leetcode-daily/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/khushboo899/leetcode-daily/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/khushboo899/leetcode-daily/tree/master/1162-as-far-from-land-as-possible) |
 | [1668-maximum-repeating-substring](https://github.com/khushboo899/leetcode-daily/tree/master/1668-maximum-repeating-substring) |
 ## Greedy
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/khushboo899/leetcode-daily/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khushboo899/leetcode-daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/khushboo899/leetcode-daily/tree/master/0567-permutation-in-string) |
+| [1143-longest-common-subsequence](https://github.com/khushboo899/leetcode-daily/tree/master/1143-longest-common-subsequence) |
 | [1668-maximum-repeating-substring](https://github.com/khushboo899/leetcode-daily/tree/master/1668-maximum-repeating-substring) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/khushboo899/leetcode-daily/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Stack
@@ -419,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/khushboo899/leetcode-daily/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/khushboo899/leetcode-daily/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
