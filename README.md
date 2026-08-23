@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/khushboo899/leetcode-daily/tree/master/1162-as-far-from-land-as-possible) |
 | [1584-min-cost-to-connect-all-points](https://github.com/khushboo899/leetcode-daily/tree/master/1584-min-cost-to-connect-all-points) |
+| [1710-maximum-units-on-a-truck](https://github.com/khushboo899/leetcode-daily/tree/master/1710-maximum-units-on-a-truck) |
 | [1765-map-of-highest-peak](https://github.com/khushboo899/leetcode-daily/tree/master/1765-map-of-highest-peak) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/khushboo899/leetcode-daily/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khushboo899/leetcode-daily/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/khushboo899/leetcode-daily/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/khushboo899/leetcode-daily/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/khushboo899/leetcode-daily/tree/master/0169-majority-element) |
+| [1710-maximum-units-on-a-truck](https://github.com/khushboo899/leetcode-daily/tree/master/1710-maximum-units-on-a-truck) |
 ## Counting
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/khushboo899/leetcode-daily/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/khushboo899/leetcode-daily/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1710-maximum-units-on-a-truck](https://github.com/khushboo899/leetcode-daily/tree/master/1710-maximum-units-on-a-truck) |
 ## String
 |  |
 | ------- |
