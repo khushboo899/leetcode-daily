@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/khushboo899/leetcode-daily/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/khushboo899/leetcode-daily/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/khushboo899/leetcode-daily/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/khushboo899/leetcode-daily/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/khushboo899/leetcode-daily/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/khushboo899/leetcode-daily/tree/master/0643-maximum-average-subarray-i) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/khushboo899/leetcode-daily/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/khushboo899/leetcode-daily/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/khushboo899/leetcode-daily/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/khushboo899/leetcode-daily/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/khushboo899/leetcode-daily/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/khushboo899/leetcode-daily/tree/master/0740-delete-and-earn) |
@@ -425,4 +427,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/khushboo899/leetcode-daily/tree/master/1143-longest-common-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
