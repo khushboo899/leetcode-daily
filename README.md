@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/khushboo899/leetcode-daily/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/khushboo899/leetcode-daily/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/khushboo899/leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/khushboo899/leetcode-daily/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0931-minimum-falling-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/khushboo899/leetcode-daily/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/khushboo899/leetcode-daily/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/khushboo899/leetcode-daily/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/khushboo899/leetcode-daily/tree/master/0347-top-k-frequent-elements) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/khushboo899/leetcode-daily/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1710-maximum-units-on-a-truck](https://github.com/khushboo899/leetcode-daily/tree/master/1710-maximum-units-on-a-truck) |
 ## Counting
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/khushboo899/leetcode-daily/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/khushboo899/leetcode-daily/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/khushboo899/leetcode-daily/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1710-maximum-units-on-a-truck](https://github.com/khushboo899/leetcode-daily/tree/master/1710-maximum-units-on-a-truck) |
 ## String
 |  |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/khushboo899/leetcode-daily/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/khushboo899/leetcode-daily/tree/master/0347-top-k-frequent-elements) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/khushboo899/leetcode-daily/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Monotonic Queue
 |  |
 | ------- |
