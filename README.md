@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/khushboo899/leetcode-daily/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0931-minimum-falling-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/khushboo899/leetcode-daily/tree/master/0994-rotting-oranges) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khushboo899/leetcode-daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/khushboo899/leetcode-daily/tree/master/1162-as-far-from-land-as-possible) |
 | [1584-min-cost-to-connect-all-points](https://github.com/khushboo899/leetcode-daily/tree/master/1584-min-cost-to-connect-all-points) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/khushboo899/leetcode-daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/khushboo899/leetcode-daily/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/khushboo899/leetcode-daily/tree/master/0234-palindrome-linked-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khushboo899/leetcode-daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khushboo899/leetcode-daily/tree/master/0042-trapping-rain-water) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khushboo899/leetcode-daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/khushboo899/leetcode-daily/tree/master/0404-sum-of-left-leaves) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khushboo899/leetcode-daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/khushboo899/leetcode-daily/tree/master/0404-sum-of-left-leaves) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khushboo899/leetcode-daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -484,4 +489,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0098-validate-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khushboo899/leetcode-daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
