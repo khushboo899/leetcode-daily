@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/khushboo899/leetcode-daily/tree/master/0692-top-k-frequent-words) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/khushboo899/leetcode-daily/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/khushboo899/leetcode-daily/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1710-maximum-units-on-a-truck](https://github.com/khushboo899/leetcode-daily/tree/master/1710-maximum-units-on-a-truck) |
 ## Counting
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/khushboo899/leetcode-daily/tree/master/0404-sum-of-left-leaves) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khushboo899/leetcode-daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/khushboo899/leetcode-daily/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/khushboo899/leetcode-daily/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/khushboo899/leetcode-daily/tree/master/1192-critical-connections-in-a-network) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/khushboo899/leetcode-daily/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/khushboo899/leetcode-daily/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/khushboo899/leetcode-daily/tree/master/0404-sum-of-left-leaves) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khushboo899/leetcode-daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/khushboo899/leetcode-daily/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -509,4 +513,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/khushboo899/leetcode-daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/khushboo899/leetcode-daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khushboo899/leetcode-daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/khushboo899/leetcode-daily/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
