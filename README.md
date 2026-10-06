@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/khushboo899/leetcode-daily/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/khushboo899/leetcode-daily/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0416-partition-equal-subset-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/khushboo899/leetcode-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/khushboo899/leetcode-daily/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/khushboo899/leetcode-daily/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/khushboo899/leetcode-daily/tree/master/0643-maximum-average-subarray-i) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/khushboo899/leetcode-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/khushboo899/leetcode-daily/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/khushboo899/leetcode-daily/tree/master/0540-single-element-in-a-sorted-array) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
