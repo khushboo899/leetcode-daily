@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/khushboo899/leetcode-daily/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/khushboo899/leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/khushboo899/leetcode-daily/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0875-koko-eating-bananas](https://github.com/khushboo899/leetcode-daily/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/khushboo899/leetcode-daily/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khushboo899/leetcode-daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/khushboo899/leetcode-daily/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/khushboo899/leetcode-daily/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/khushboo899/leetcode-daily/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/khushboo899/leetcode-daily/tree/master/0875-koko-eating-bananas) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
