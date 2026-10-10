@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/khushboo899/leetcode-daily/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/khushboo899/leetcode-daily/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushboo899/leetcode-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/khushboo899/leetcode-daily/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/khushboo899/leetcode-daily/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/khushboo899/leetcode-daily/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/khushboo899/leetcode-daily/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/khushboo899/leetcode-daily/tree/master/0733-flood-fill) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/khushboo899/leetcode-daily/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/khushboo899/leetcode-daily/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khushboo899/leetcode-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/khushboo899/leetcode-daily/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/khushboo899/leetcode-daily/tree/master/0300-longest-increasing-subsequence) |
